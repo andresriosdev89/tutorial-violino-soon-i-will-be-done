@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: tutorial-violino-soon-i-will-be-done
+    runtime: static
+    staticPublishPath: .
+    pullRequestPreviewsEnabled: false
+
